@@ -11,7 +11,7 @@ import { ChevronRight, Clock, Code, ListVideo, Loader2, Star } from "lucide-reac
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-import StarButton from "@/components/StartButton";
+import StarButton from "@/components/StarButton";
 import CodeBlock from "./_components/CodeBlock";
 import { Id } from "../../../convex/_generated/dataModel";
 
